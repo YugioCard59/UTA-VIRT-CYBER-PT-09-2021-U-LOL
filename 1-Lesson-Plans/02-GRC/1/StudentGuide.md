@@ -49,7 +49,7 @@ Note the following example of an insecure feature that may drive considerable pr
 
 After making a decision, the business should update its security practices to manage the risks they've chosen to undertake and periodically verify that everyone is following the rules. This is where **governance** and **compliance** kick in.
 
-Note the GRC is meaningless with enforcement. Those most directly responsible for overseeing the enforcement and adherence to specific laws and regulations that apply to their business practices are the executive management team or C-Suite corporate officers. 
+Note the GRC is meaningless without enforcement. Those most directly responsible for overseeing the enforcement and adherence to specific laws and regulations that apply to their business practices are the executive management team or C-Suite corporate officers. 
 
 We'll discuss the specific roles and responsibilites of the executive team next.
 
